@@ -1065,7 +1065,7 @@ img {
 .footer__copy {
   font-size: var(--smaller-font-size);
   text-align: center;
-  color: dimgray;
+  color: rgb(255, 255, 255);
   margin-top: var(--mb-3);
 }
 
